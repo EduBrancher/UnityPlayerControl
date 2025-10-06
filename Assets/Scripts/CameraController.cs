@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class MainCameraController : MonoBehaviour {
+public class CameraController : MonoBehaviour {
 
     [SerializeField] GameObject player;
     [SerializeField] Vector3 offset;
